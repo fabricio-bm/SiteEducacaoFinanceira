@@ -1,0 +1,36 @@
+#corpo{
+    background-color: white;
+    display: inline-block;
+}
+h1{
+    font-size: 56px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #4682B4;
+    text-align: center;
+}
+#corpo{
+    text-align: justify;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 40px;
+    font-size: 22px;
+}
+#corretora{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+h3{
+    text-align: center;
+}
+#titulo{
+    color: #FFA500;
+    text-align: center;
+}
+#subtitulo{
+    color: #4682B4;
+    text-align: center;
+}
+#subtitulo ul{
+    list-style-type: none;
+}
